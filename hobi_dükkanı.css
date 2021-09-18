@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    background-color: rgb(57, 29, 84);
+    color: aliceblue;
+    margin:0;
+    text-align: center;
+    padding: 10px;
+}
+ul, li, a{
+    margin: 0;
+    padding-right: 20px;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+}
+
+.okul{
+    margin:10px;
+    padding:30px;
+}
+.hakkimizda{
+    margin: 30px;
+}
+.urun{
+    display: block;
+    padding-top: 20px;
+}
+img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+.urun-1, .urun-3{
+    width: 50%;
+    float: left;
+}
+.urun-1{
+    padding-top: 20px;
+}
+.urun-2, .urun-4{
+    width: 50%;
+    float: right;
+
+}
+.urun-3{
+padding-top: 20px;
+}
+.cesit{
+    text-align: center;
+    padding: 10px;
+}
+.aciklama{
+    padding:10px;
+}
+.iletisim{
+    margin: 30px;
+}
