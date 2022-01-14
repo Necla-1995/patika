@@ -1,0 +1,61 @@
+#muzik{
+    background-color:  #E9ECEF;
+}
+
+/*header*/
+#brand{
+    color:red;
+}
+
+
+/*müzik dükkanım anasayfa*/
+#merhaba{
+    color:rgb(255, 0, 140);   
+    text-align: center;
+    font-size: 100px;
+    font-weight: lighter;
+}
+#giris{
+    text-align: center;
+    font-size: 30px;
+}
+#urun-ziyaret{
+    text-decoration: none;
+    color:rgb(59, 133, 218);
+}
+#urun-liste-baslık{
+    color:rgb(255, 174, 0);
+}
+#urun-liste, ul{
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+
+/*müzik dükkanı hakkımızda*/
+#hakkımızda{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#hakkımızda-baslik{
+    color:rgb(201, 10, 226);   
+    text-align: center;
+    font-size: 100px;
+    font-weight: lighter;
+} 
+#vizyon{
+    color:rgb(228, 157, 4);
+} 
+#misyon{
+    color:rgb(228, 157, 4);
+}
+
+
+/*müzik dükkanı ürünler*/
+#urunler{
+    color:rgb(201, 10, 226);   
+    text-align: center;
+    font-size: 70px;
+    font-weight: lighter;
+}
